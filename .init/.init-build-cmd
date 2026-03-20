@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/meal-planner-and-recipe-organizer-335101-335116/recipe_app_database"
+}
